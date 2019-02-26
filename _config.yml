@@ -28,17 +28,17 @@ topics:
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
-  - name: Bootstrap
-    web_url: https://github.com/topics/bootstrap
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bootstrap/bootstrap.png
+  - name: Vue
+    web_url: https://github.com/topics/vue
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
 
   - name: Typescript
     web_url: https://github.com/topics/typescript
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png
 
-  - name: Vue
-    web_url: https://github.com/topics/vue
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
+  - name: Bootstrap
+    web_url: https://github.com/topics/bootstrap
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bootstrap/bootstrap.png
 
   - name: Angular
     web_url: https://github.com/topics/angular
